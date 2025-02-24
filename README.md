@@ -1,1 +1,12 @@
-# LLM_RAG
+# LLM + RAG
+
+## Overview
+
+
+
+## What i learned
+
+
+
+## Credits
+
